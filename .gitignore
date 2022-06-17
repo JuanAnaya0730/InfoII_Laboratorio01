@@ -35,8 +35,8 @@ Thumbs.db
 *.pro.user
 *.idx
 *.json
-/.qmake.cache
-/.qmake.stash
+*/.qmake.cache
+*/.qmake.stash
 
 # qtcreator generated files
 *.pro.user*
